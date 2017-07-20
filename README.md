@@ -26,6 +26,11 @@ Clone the repository:
 
 If this is your first time using Github, review http://help.github.com to learn the basics.
 
+========================================================================================================
+The application (which is a java app which will will be installed on a docker container)
+Copy shown in ths repo came form the udemey instuctor daidengbo/spring-mvc-showcase for openshift lab 
+========================================================================================================
+
 To run the application:
 -------------------	
 From the command line with Maven:
